@@ -1,0 +1,325 @@
+
+
+Started GET "/" for 188.163.1.227 at 2015-05-30 10:34:09 +0300
+Processing by DashboardsController#dashboard_1 as HTML
+  Rendered dashboards/dashboard_1.html.erb within layouts/application (227.1ms)
+  Rendered layouts/_skinconfig.html.erb (1.2ms)
+  Rendered layouts/_navigation.html.erb (18.0ms)
+  Rendered layouts/_topnavbar.html.erb (8.0ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+  Rendered layouts/_rightsidebar.html.erb (14.7ms)
+Completed 200 OK in 8975ms (Views: 8908.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/toastr/toastr.min.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/dashboards.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/application.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/style.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/animate/animate.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/jquery/jquery-2.1.1.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/bootstrap/affix.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/bootstrap/button.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/bootstrap/alert.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:18 +0300
+
+
+Started GET "/assets/bootstrap/carousel.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/collapse.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/dropdown.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/modal.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/scrollspy.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/tab.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/transition.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/tooltip.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap/popover.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/metisMenu/jquery.metisMenu.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/bootstrap-sprockets.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/pace/pace.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/peity/jquery.peity.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/slimscroll/jquery.slimscroll.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/inspinia.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/application.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/flot/jquery.flot.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/flot/jquery.flot.tooltip.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/flot/jquery.flot.resize.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/flot/jquery.flot.pie.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/flot/jquery.flot.time.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/sparkline/jquery.sparkline.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/flot/jquery.flot.spline.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/chartjs/Chart.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/jvectormap/jquery-jvectormap-1.2.2.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/jvectormap/jquery-jvectormap-world-mill-en.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/toastr/toastr.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/dashboards.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/profile_small.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a7.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/profile.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a5.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a4.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a3.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a1.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a2.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/a8.jpg" for 188.163.1.227 at 2015-05-30 10:34:19 +0300
+
+
+Started GET "/assets/patterns/header-profile-skin-1.png" for 188.163.1.227 at 2015-05-30 10:34:20 +0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 188.163.1.227 at 2015-05-30 10:34:20 +0300
+
+
+Started GET "/assets/patterns/header-profile.png" for 188.163.1.227 at 2015-05-30 10:34:20 +0300
+
+
+Started GET "/assets/fontawesome-webfont.woff?v=4.3.0" for 188.163.1.227 at 2015-05-30 10:34:20 +0300
+
+
+Started GET "/" for 188.163.1.227 at 2015-05-30 10:34:34 +0300
+Processing by DashboardsController#dashboard_1 as HTML
+  Rendered dashboards/dashboard_1.html.erb within layouts/application (2.4ms)
+  Rendered layouts/_skinconfig.html.erb (0.1ms)
+  Rendered layouts/_navigation.html.erb (5.2ms)
+  Rendered layouts/_topnavbar.html.erb (2.8ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+  Rendered layouts/_rightsidebar.html.erb (7.6ms)
+Completed 200 OK in 141ms (Views: 140.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/toastr/toastr.min.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:34 +0300
+
+
+Started GET "/assets/dashboards.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/font-awesome.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/application.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/animate/animate.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/style.self.css?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/jquery/jquery-2.1.1.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/affix.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/alert.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/carousel.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/button.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/dropdown.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/collapse.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/modal.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/scrollspy.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/tab.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/transition.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/tooltip.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap-sprockets.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/bootstrap/popover.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/metisMenu/jquery.metisMenu.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/pace/pace.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/peity/jquery.peity.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/slimscroll/jquery.slimscroll.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/inspinia.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/application.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/flot/jquery.flot.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/flot/jquery.flot.tooltip.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/flot/jquery.flot.pie.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/flot/jquery.flot.resize.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/flot/jquery.flot.time.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/flot/jquery.flot.spline.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/sparkline/jquery.sparkline.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/chartjs/Chart.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/jvectormap/jquery-jvectormap-1.2.2.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/jvectormap/jquery-jvectormap-world-mill-en.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/toastr/toastr.min.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/dashboards.self.js?body=1" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/profile_small.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a7.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a4.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/profile.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a2.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a3.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a1.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a5.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/a8.jpg" for 188.163.1.227 at 2015-05-30 10:34:35 +0300
+
+
+Started GET "/assets/patterns/header-profile-skin-1.png" for 188.163.1.227 at 2015-05-30 10:34:36 +0300
+
+
+Started GET "/assets/patterns/header-profile-skin-3.png" for 188.163.1.227 at 2015-05-30 10:34:36 +0300
+
+
+Started GET "/assets/patterns/header-profile.png" for 188.163.1.227 at 2015-05-30 10:34:36 +0300
